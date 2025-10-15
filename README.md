@@ -128,4 +128,5 @@ Analysis Results:
 - Unitary for the toxic-bert model
 - PyTorch team for the deep learning framework
 
-Nirant Bendale
+Rishi Kulkarni
+
